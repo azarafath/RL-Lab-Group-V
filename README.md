@@ -13,10 +13,10 @@ Kumpulkan dengan menggunakan email kirim ke wayan.orbitfutureacademy.sch.id. Set
 
 Contoh, tiap kelompok terdiri dari: 1 orang dari kelas:
 
-AlphaGo
-Devalopa
-Khasanah Ilmi
-Alfatih
-Kaizen
+1. AlphaGo
+2. Devalopa
+3. Khasanah Ilmi
+4. Alfatih
+5. Kaizen
 
 Harap Komunikasikan yang tidak mendapat kelompok.
