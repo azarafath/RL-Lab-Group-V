@@ -20,3 +20,5 @@ Contoh, tiap kelompok terdiri dari: 1 orang dari kelas:
 5. Kaizen
 
 Harap Komunikasikan yang tidak mendapat kelompok.
+
+Terimakasih
