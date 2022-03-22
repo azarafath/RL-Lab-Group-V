@@ -22,3 +22,6 @@ Contoh, tiap kelompok terdiri dari: 1 orang dari kelas:
 Harap Komunikasikan yang tidak mendapat kelompok.
 
 Terimakasih
+
+Kumpulkan dengan menggunakan email kirim ke wayan.orbitfutureacademy.sch.id
+
