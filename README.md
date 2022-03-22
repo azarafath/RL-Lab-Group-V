@@ -1,4 +1,4 @@
-### Halaman kelas RL untuk Grup OFA Kampus Merdeka
+## Halaman kelas RL untuk Grup OFA Kampus Merdeka
 
 Tugas RL Pertemuan pertama
 
@@ -9,7 +9,19 @@ Tugas RL Pertemuan pertama
 
 Format dokumen dapat berupa, berurut berdasarkan prioritas: a. text b. markdown c. pdf (dari ms word atau libreoffice) d. tidak menerima dokumen selain 3 format tersebut, kecuali terdapat gambar yang dilampirkan
 
-Kumpulkan dengan menggunakan mekanisme github, buat kelompok dengan anggota kelas Persevere untuk mengumpulkan tugas anda. Setiap kelompok berisi 5 orang, masing-masing kelas agar dapat diwakili 1 orang dalam kelompok.
+Kumpulkan dengan menggunakan email kirim ke wayan.orbitfutureacademy.sch.id, buat kelompok dengan anggota kelas Persevere untuk mengumpulkan tugas anda. Setiap kelompok berisi 5 orang, masing-masing kelas agar dapat diwakili 1 orang dalam kelompok.
+
+Contoh, tiap kelompok terdiri dari: 1 orang dari kelas:
+
+1. AlphaGo
+2. Devalopa
+3. Khasanah Ilmi
+4. Alfatih
+5. Kaizen
+
+Harap Komunikasikan yang tidak mendapat kelompok.
+
+Terima Kasih.
 
 Harap Komunikasikan yang tidak mendapat kelompok.
 
